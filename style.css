@@ -1,0 +1,17 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: Url("canvas_477755755_1000.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: #ffffff;
+border-style: ridge;
+
+}
